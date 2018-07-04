@@ -1,0 +1,6 @@
+[submodule ".vim/pack/nerdtree/start/nerdtree"]
+	path = .vim/pack/nerdtree/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/pack/vim-nerdtree-tabs/start/vim-nerdtree-tabs"]
+	path = .vim/pack/vim-nerdtree-tabs/start/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
